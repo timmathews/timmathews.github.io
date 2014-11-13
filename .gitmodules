@@ -1,0 +1,3 @@
+[submodule "include-me"]
+	path = include-me
+	url = https://github.com/timmathews/include-me
